@@ -27,7 +27,7 @@ let selectedColor
 // undefined
 
 selectedColor=Symbol("red") 
-// symbol => unique identifier ,will use in react js
+// symbol => unique identifier , will use in react js
 
 //reference data types
 
